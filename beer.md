@@ -14,7 +14,7 @@ permalink: /beer/
         <div class="row">
             {% for beer in site.beer %}
                 <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
-                    <a href="{{ beer.url }}" class="beer-link">
+                    <a href="{{ site.baseurl }}{{ beer.url }}" class="beer-link">
                         <div class="beer-hover">
                             <div class="beer-hover-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
