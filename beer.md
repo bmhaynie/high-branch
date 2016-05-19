@@ -1,7 +1,7 @@
 ---
 layout: base
 title: All Beer
-permalink: /beer/
+permalink: beer/
 ---
 
 <section id="beer" class="page bg-light-gray">
@@ -14,13 +14,13 @@ permalink: /beer/
         <div class="row">
             {% for beer in site.beer %}
                 <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
-                    <a href="{{ site.url }}{{ beer.url }}" class="beer-link">
+                    <a href="{{ site.baseurl }}{{ beer.url }}" class="beer-link">
                         <div class="beer-hover">
                             <div class="beer-hover-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="/img/beer/{{ beer.img }}" class="img-responsive img-centered" alt="">
+                        <img src="{{ site.baseurl }}/img/beer/{{ beer.img }}" class="img-responsive img-centered" alt="">
                     </a>
                     <div class="beer-caption">
                         <h3>{{ beer.title }}</h3>
