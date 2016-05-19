@@ -12,6 +12,6 @@ malt:
 modal-id: big-sister
 on-tap: yup
 sourness: None
-style: American Double IPA
+style: American Triple IPA
 title: Big Sister
 ---
