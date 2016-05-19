@@ -2,7 +2,11 @@
 <html>
 	{% include head.html %}
 	<body id="page-top" class="index">
-		{% include nav.html %}
+		{% if page.layout == 'home' %}
+			{% include nav.html %}
+		{% else %}
+			{% include nav-alt.html %}
+		{% endif %}
 		{{ content }}
 		{% include footer.html %}
 		{% include age.html %}
