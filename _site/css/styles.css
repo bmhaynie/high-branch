@@ -379,17 +379,8 @@ header {
     background-color: #ffffff; }
     .beer-modal .close-modal .lr .rl {
       background-color: #ffffff; } }
-.team-member {
-  text-align: center;
-  margin-bottom: 50px; }
-  .team-member img {
-    margin: 0 auto;
-    border: 7px solid white; }
-  .team-member h4 {
-    margin-top: 25px;
-    margin-bottom: 0; }
-  .team-member p {
-    margin-top: 0; }
+#gallery {
+  padding: 0; }
 
 section#contact {
   background-color: #222222;
