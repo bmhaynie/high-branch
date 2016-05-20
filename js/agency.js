@@ -43,3 +43,8 @@ $(document).ready(function() {
         $.removeCookie('pop', { path: '/' });
     });
 });
+
+// Carousel
+$('.carousel').carousel({
+    interval: 3000
+})
