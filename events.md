@@ -1,5 +1,5 @@
 ---
 layout: page
-title: All Events
+title: Events
 permalink: events/
 ---

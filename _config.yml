@@ -30,3 +30,4 @@ collections:
     output: true
     permalink: /events/:path/
 markdown: kramdown
+future: true

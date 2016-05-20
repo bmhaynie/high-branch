@@ -1,6 +1,6 @@
 ---
 layout: base
-title: All Beer
+title: Beer Archive
 permalink: beer/
 ---
 

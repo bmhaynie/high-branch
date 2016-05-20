@@ -1,9 +1,9 @@
 ---
-date: 2015-12-31 09:00:00 -0400
+date: 2015-12-31 08:00:00 -0400
 layout: post
 title: Why Start a Brewery?
 permalink: /blog/:year/:month/:day/:title/
-image: beer.png
+image: default.jpg
 ---
 
 To kick this off we wanted to make a blog post describing what lead us to start our brewery and what our vision is. While this first post is somewhat formal (and we talk about ourselves a lot) we don't plan to make all blog posts like this.  Future posts will talk about current events, process notes for homebrewers to geek out on, and anything interesting happening at the brewery.  
