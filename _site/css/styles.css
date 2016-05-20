@@ -82,7 +82,8 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   border-radius: 3px;
   font-size: 18px;
-  padding: 20px 40px; }
+  padding: 20px 40px;
+  text-transform: uppercase; }
   .btn-xl:hover, .btn-xl:focus, .btn-xl:active, .btn-xl.active,
   .btn-xl .open .dropdown-toggle {
     color: white;
