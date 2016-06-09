@@ -11,7 +11,7 @@ layout: beer
 malt: 
 modal-id: ripe
 title: Ripe
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Saison
 ---

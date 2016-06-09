@@ -11,7 +11,7 @@ layout: beer
 malt: 
 modal-id: muscadean
 title:  Muscadean
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Imperial Red Ale
 ---

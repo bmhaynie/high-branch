@@ -11,7 +11,7 @@ layout: beer
 malt: 
 modal-id: southern-sour-blonde
 title: Southern Sour Blonde
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Sour
 ---
