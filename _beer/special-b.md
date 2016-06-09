@@ -6,12 +6,12 @@ bitterness:
 description:
 gravity: 
 hops: 
-img: beer.jpg
+img: special-b.jpg
 layout: beer
 malt: 
 modal-id: special-b
 title: Special B
-on-tap: nope
+on-tap: yup
 sourness: 
 style: American Red Ale
 ---
