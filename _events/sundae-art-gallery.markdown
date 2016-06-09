@@ -4,7 +4,6 @@ layout: event
 title: Sundae Art Gallery
 permalink: /events/:year/:month/:day/:title/
 image: sundae-art-gallery.jpg
-published: true
 time: from 2-5PM
 ---
 

@@ -4,7 +4,6 @@ layout: event
 title: Future Event
 permalink: /events/:year/:month/:day/:title/
 image: default.jpg
-published: true
 time: at 7PM
 ---
 
