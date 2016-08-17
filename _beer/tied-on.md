@@ -3,9 +3,10 @@ abv: 8.9%
 alt: 
 availability: Keg
 bitterness: 
-description:
+description: This beer comes in at 8.9% ABV and is fermented with a Belgian Ale yeast. Light in color and in body it is dangerously drinkable.
 gravity: 
 hops: 
+ibu: 25
 img: beer.jpg
 layout: beer
 malt: 

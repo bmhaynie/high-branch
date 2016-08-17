@@ -3,9 +3,10 @@ abv: 6.5%
 alt:
 availability: Keg
 bitterness: 
-description:
+description: This Porter was brewed with lactose sugar and aged on whole coffee beans.
 gravity: 
 hops: 
+ibu: 22
 img: beer.jpg
 layout: beer
 malt: 

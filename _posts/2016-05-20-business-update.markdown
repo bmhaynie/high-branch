@@ -4,6 +4,7 @@ layout: post
 title: Business Update
 permalink: /blog/:year/:month/:day/:title/
 image: default.jpg
+published: false
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam imperdiet nisi non massa ultrices, nec facilisis ante faucibus. Aliquam eleifend rutrum mauris, quis dictum tellus luctus ut. Nulla egestas ullamcorper est, sit amet porttitor ligula scelerisque vel. Sed vitae purus consectetur sem posuere scelerisque sit amet eu dolor. Integer condimentum felis vitae sagittis pharetra.
