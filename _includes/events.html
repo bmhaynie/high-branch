@@ -6,11 +6,14 @@
             </div>
         </div>
         <div class="row text-center">
-            <div class="col-xs-12">
-				{% for events in site.events limit:3 %}
-					<p><a href="{{ events.url | prepend: site.baseurl }}">{{ events.date | date: "%B %-d" }} &mdash; {{ events.title }}</a></p>
+				{% for events in site.events limit:4 %}
+                <div class="col-sm-3 col-xs-6">
+                    <a href="{{ events.url | prepend: site.baseurl }}">
+                        <p><img src="{{ site.baseurl }}/img/events/{{ events.image }}" class="img-responsive img-centered img-circle img-thumbnail"></p>
+                        <p>{{ events.date | date: "%A, %B %-d" }}<br>{{ events.title }}</p>
+                    </a>
+                </div>
 				{% endfor %}
-            </div>
         </div>
     </div>
 </section>
