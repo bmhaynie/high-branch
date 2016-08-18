@@ -11,7 +11,7 @@ img: beer.jpg
 layout: beer
 malt: 
 modal-id: hail-to-the-brown-ale
-title: Hail To the Brown Ale
+title: Hail to the Brown Ale
 on-tap: nope
 sourness: 
 style: Brown Ale

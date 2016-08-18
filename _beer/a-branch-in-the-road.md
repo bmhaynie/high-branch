@@ -11,7 +11,7 @@ img: a-branch-in-the-road.jpg
 layout: beer
 malt: 
 modal-id: a-branch-in-the-road
-title: A Branch In the Road
+title: A Branch in the Road
 on-tap: nope
 sourness: 
 style: Saison
