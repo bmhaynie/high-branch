@@ -11,7 +11,7 @@ img: mcgill-avenue.jpg
 layout: beer
 malt: 
 modal-id: mcgill-avenue
-title: Mcgill Avenue
+title: McGill Avenue
 on-tap: yup
 sourness: 
 style: IPA

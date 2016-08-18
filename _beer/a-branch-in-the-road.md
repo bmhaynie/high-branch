@@ -14,5 +14,5 @@ modal-id: a-branch-in-the-road
 title: A Branch in the Road
 on-tap: nope
 sourness: 
-style: Saison
+style: Saison with Fruit
 ---

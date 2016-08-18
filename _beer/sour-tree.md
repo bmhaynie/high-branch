@@ -14,5 +14,5 @@ modal-id: sour-tree
 title: Sour Tree
 on-tap: nope
 sourness: 
-style: Saison
+style: Tart Saison
 ---

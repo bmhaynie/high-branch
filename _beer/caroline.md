@@ -14,5 +14,5 @@ modal-id: caroline
 title: Caroline
 on-tap: nope
 sourness: 
-style: Sour
+style: Tart Saison
 ---

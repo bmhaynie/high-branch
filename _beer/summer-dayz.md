@@ -14,5 +14,5 @@ modal-id: summer-dayz
 title: Summer Dayz
 on-tap: nope
 sourness: 
-style: Pale Wheat Ale
+style: Hoppy Wheat
 ---

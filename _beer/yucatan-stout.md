@@ -7,12 +7,12 @@ description: This imperial stout is strong with a heavy body. Cinnamon sticks, p
 gravity: 
 hops: 
 ibu: 40
-img: yucatan-stout.jpg
+img: yucatan.jpg
 layout: beer
 malt: 
-modal-id: yucatan-stout
-title: Yucatan Stout
+modal-id: yucatan
+title: Yucatan
 on-tap: nope
 sourness: 
-style: Stout
+style: Imperial Stout
 ---

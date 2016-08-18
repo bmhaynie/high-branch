@@ -14,5 +14,5 @@ modal-id: ripe
 title: Ripe
 on-tap: yup
 sourness: 
-style: Saison
+style: Saison with Fruit
 ---
