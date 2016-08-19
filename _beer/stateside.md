@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: stateside
 title: Stateside
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Pale Ale
 ---
