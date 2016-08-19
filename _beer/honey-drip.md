@@ -7,11 +7,11 @@ description: A delicious and balanced IPA brewed with local honey from Cabarrus 
 gravity: 
 hops: 
 ibu: 85
-img: beer.jpg
+img: honey-drip.jpg
 layout: beer
 malt: 
-modal-id: honey-drip-ipa
-title: Honey Drip IPA
+modal-id: honey-drip
+title: Honey Drip
 on-tap: nope
 sourness: 
 style: IPA

@@ -7,11 +7,11 @@ description: This pale ale is less aromatic than Lake View and is brewed with 10
 gravity: 
 hops: 
 ibu: 35
-img: stateside-pale-ale.jpg
+img: stateside.jpg
 layout: beer
 malt: 
-modal-id: stateside-pale-ale
-title: Stateside Pale Ale
+modal-id: stateside
+title: Stateside
 on-tap: yup
 sourness: 
 style: Pale Ale
