@@ -182,6 +182,11 @@ i.fa-long-arrow-left {
 .navbar-fixed-top {
   border: none; }
 
+#announcement {
+  background: #e74c3c;
+  color: #222222;
+  padding: 65px 65px 15px 65px; }
+
 header {
   background-color: #222222;
   background-image: url("../img/header-bg.jpg");
