@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: norway-hill
 title: Norway Hill
-on-tap: nope
+on-tap: yup
 sourness: 
 style: Barrel Fermented Saison Ale
 ---
