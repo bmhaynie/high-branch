@@ -14,5 +14,5 @@ modal-id: mcgill-avenue
 title: McGill Avenue
 on-tap: yup
 sourness: 
-style: IPA
+style: Hazy IPA
 ---

@@ -14,5 +14,5 @@ modal-id: wakey-wakey
 title: Wakey Wakey
 on-tap: yup
 sourness: 
-style: Saison
+style: Coffee Saison
 ---
