@@ -7,7 +7,7 @@ description: Traditionally, Saisons are not incredibly bitter. This beer has lat
 gravity: 
 hops: 
 ibu: 40
-img: tweener.jpg
+img: southern-sour-blonde.jpg
 layout: beer
 malt: 
 modal-id: hoppy-tweener
