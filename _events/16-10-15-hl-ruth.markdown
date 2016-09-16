@@ -1,0 +1,12 @@
+---
+date: 2016-10-15 18:00:00 -0400
+layout: event
+title: HL Ruth at High Branch!
+permalink: /events/:year/:month/:day/:title/
+image: hl-ruth.jpg
+time: from 6-8PM
+---
+
+Always fun when there's live music from [HL Ruth]{:target="_blank"}!
+
+[HL Ruth]: https://www.facebook.com/HLRuth

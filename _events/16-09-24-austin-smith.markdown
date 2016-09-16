@@ -7,6 +7,6 @@ image: austin-smith.jpg
 time: at 6PM
 ---
 
-Live music from [Stories & Songs]{:target="_blank"} / Austin Smith
+Live music from [Stories & Songs]{:target="_blank"} / Austin Smith!
 
 [Stories & Songs]: https://www.facebook.com/storiesandsongsmusic/

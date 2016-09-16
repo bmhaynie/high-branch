@@ -5,6 +5,7 @@ title: Sundae Art Gallery at High Branch
 permalink: /events/:year/:month/:day/:title/
 image: sundae-art-gallery.jpg
 time: from 6-9PM
+published: false
 ---
 
 [Sundae Art Gallery]{:target="_blank"} is coming back to the taproom! Enjoy a High Branch beer while you paint. More details to come!

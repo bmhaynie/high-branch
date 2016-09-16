@@ -5,6 +5,7 @@ title: High Branch at Union Street Live Concert & Block Party
 permalink: /events/:year/:month/:day/:title/
 image: union-street-live.jpg
 time: from 6-9PM
+published: false
 ---
 
 Enjoy some High Branch beer during the concert.
