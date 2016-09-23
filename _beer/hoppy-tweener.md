@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: hoppy-tweener
 title: Hoppy Tweener
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Saison
 ---

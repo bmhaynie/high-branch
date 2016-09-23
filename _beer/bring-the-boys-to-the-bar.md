@@ -14,5 +14,5 @@ modal-id: bring-the-boys-to-the-bar
 title: Bring the Boys to the Bar
 on-tap: yup
 sourness: 
-style: IPA
+style: Hazy IPA
 ---

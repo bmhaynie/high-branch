@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: mill-town-brown
 title: Mill Town Brown
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Brown Ale
 ---
