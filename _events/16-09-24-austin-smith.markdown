@@ -5,6 +5,7 @@ title: Austin Smith Live at High Branch
 permalink: /events/:year/:month/:day/:title/
 image: austin-smith.jpg
 time: at 6PM
+published: false
 ---
 
 Live music from [Stories & Songs]{:target="_blank"} / Austin Smith!
