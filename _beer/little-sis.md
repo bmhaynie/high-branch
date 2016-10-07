@@ -7,7 +7,7 @@ description: Little Sis packs a potent hop punch with a modest alcohol content. 
 gravity: 
 hops: 
 ibu: 65
-img: beer.jpg
+img: brsb.jpg
 layout: beer
 malt: 
 modal-id: little-sis
