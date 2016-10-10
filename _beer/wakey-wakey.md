@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: wakey-wakey
 title: Wakey Wakey
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Coffee Saison
 ---
