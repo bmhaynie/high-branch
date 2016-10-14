@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: autumn-tweener
 title: Autumn Tweener
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Honey Saison
 ---
