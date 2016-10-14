@@ -7,7 +7,7 @@
         </div>
         <div class="row text-center">
 				{% for events in site.events limit:3 %}
-                <div class="col-xs-4">
+                <div class="col-xs-3">
                     <a href="{{ events.url | prepend: site.baseurl }}">
                         <p><img src="{{ site.baseurl }}/img/events/{{ events.image }}" class="img-responsive img-centered img-circle img-thumbnail"></p>
                         <p>{{ events.date | date: "%A, %B %-d" }}<br>{{ events.title }}</p>
