@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: lake-view
 title: Lake View
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Pale Ale
 ---
