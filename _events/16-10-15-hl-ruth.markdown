@@ -5,6 +5,7 @@ title: HL Ruth at High Branch!
 permalink: /events/:year/:month/:day/:title/
 image: hl-ruth.jpg
 time: from 6-8PM
+published: false
 ---
 
 Always fun when there's live music from [HL Ruth]{:target="_blank"}!
