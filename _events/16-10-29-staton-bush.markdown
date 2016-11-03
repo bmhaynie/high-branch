@@ -5,6 +5,7 @@ title: Staton-Bush Acoustic Duo
 permalink: /events/:year/:month/:day/:title/
 image: staton-bush.jpg
 time: from 5-8PM
+published: false
 ---
 
 Live music from Staton-Bush Acoustic Duo!
