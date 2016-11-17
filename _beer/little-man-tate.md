@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: little-man-tate
 title: Little Man Tate
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Gose
 ---

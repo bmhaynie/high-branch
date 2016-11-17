@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: wrath-of-the-pumpkin
 title: Wrath of the Pumpkin
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Imperial Pumpkin Ale
 ---

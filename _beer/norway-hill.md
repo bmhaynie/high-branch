@@ -3,7 +3,7 @@ abv: 6.4%
 alt:
 availability: Bottle
 bitterness: 
-description: This farmhouse inspired ale was 100% fermented in oak wine barrels. We use a mixed culture fermentation to bring on earthy flavors, a light tartness and fruitiness.
+description: A farmhouse inspired ale that is 100% fermented in wine barrels. We use a mixed culture fermentation to bring on earthy flavors, a light tartness and fruitiness. Also available in bottles to take home.
 gravity: 
 hops: 
 ibu: 5

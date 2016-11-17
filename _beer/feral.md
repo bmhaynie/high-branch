@@ -3,7 +3,7 @@ abv: 6.4%
 alt:
 availability: Keg
 bitterness: 
-description: Feral is a barrel fermented Brett beer (Brett is a wild yeast). We dry hopped it with citrusy hops to go with the funkiness of the yeast. At packaging it was almost 4 months old after aging in our puncheon barrel.
+description: A barrel fermented Brett beer (Brett is a wild yeast). We dry hopped it with citrusy hops to go with the funkiness of the yeast. At packaging it was almost 4 months old after aging in our puncheon barrel.
 gravity: 
 hops: 
 ibu: 22
