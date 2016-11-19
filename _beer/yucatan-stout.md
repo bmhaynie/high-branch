@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: yucatan
 title: Yucatan
-on-tap: nope
+on-tap: yup
 sourness: 
 style: Imperial Stout
 ---
