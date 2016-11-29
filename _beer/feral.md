@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: feral
 title: Feral
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Brett Ale
 ---
