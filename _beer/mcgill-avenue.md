@@ -1,5 +1,5 @@
 ---
-abv: 6.7%
+abv: 7.0%
 alt:
 availability: Keg
 bitterness: 
@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: mcgill-avenue
 title: McGill Avenue
-on-tap: nope
+on-tap: yup
 sourness: 
 style: Hazy IPA
 ---
