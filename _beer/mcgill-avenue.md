@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: mcgill-avenue
 title: McGill Avenue
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Hazy IPA
 ---
