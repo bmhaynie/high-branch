@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: bring-the-boys-to-the-bar
 title: Bring the Boys to the Bar
-on-tap: nope
+on-tap: yup
 sourness: 
 style: Hazy IPA
 ---
