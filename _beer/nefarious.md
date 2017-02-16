@@ -1,5 +1,5 @@
 ---
-abv: 6.4%
+abv: 6.5%
 alt:
 availability: Keg
 bitterness: Moderate

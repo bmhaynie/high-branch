@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: solstice
 title: Solstice
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Dark Saison
 ---

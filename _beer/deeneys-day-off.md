@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: deeneys-day-off
 title: Deeney's Day Off
-on-tap: nope
+on-tap: yup
 sourness: 
 style: Hazy IPA
 ---
