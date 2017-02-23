@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: ninja-slippers
 title: Ninja Slippers
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Imperial Milk Stout
 ---

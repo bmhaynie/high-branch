@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: black-and-blue
 title: Black and Blue
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Imperial Stout
 ---
