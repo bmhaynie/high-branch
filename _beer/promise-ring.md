@@ -3,7 +3,7 @@ abv: 6.2%
 alt:
 availability: Keg
 bitterness: 
-description: This beer was brewed with a clean American ale yeast and double dry hopped with a mixture of Amarillo, Citra, and Azacca hops (all big on citrus/tropical fruit). We kept the bitterness low and fermented it very dry to make it very drinkable.
+description: Lots of oats and flaked wheat in this one for a silky mouthfeel. Hopped with Azacca and Citra hops resulting in notes of orchard fruit and citrus.
 gravity: 
 hops: 
 ibu: 55
@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: promise-ring
 title: Promise Ring
-on-tap: nope
+on-tap: yup
 sourness: 
-style: IPA
+style: Hazy IPA
 ---
