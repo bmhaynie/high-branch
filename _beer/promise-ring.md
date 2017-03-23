@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: promise-ring
 title: Promise Ring
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Hazy IPA
 ---

@@ -7,7 +7,7 @@ description: A barrel-aged beer fermented on peaches. Aged approximately 6 month
 gravity: 
 hops: 
 ibu: 8
-img: beer.jpg
+img: norway-hill.jpg
 layout: beer
 malt: 
 modal-id: candor

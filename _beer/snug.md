@@ -7,7 +7,7 @@ description: An Irish Dry Stout on nitro. Heavily roasted malts add to the dryne
 gravity: 
 hops: 
 ibu: 18
-img: beer.jpg
+img: late-addition.jpg
 layout: beer
 malt: 
 modal-id: snug
