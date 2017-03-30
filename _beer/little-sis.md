@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: little-sis
 title: Little Sis
-on-tap: yup
+on-tap: nope
 sourness: 
 style: IPA
 ---

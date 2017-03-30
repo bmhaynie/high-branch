@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: between-the-staves
 title: Between the Staves
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Raspberry/Blackberry Saison
 ---
