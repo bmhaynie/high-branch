@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: snug
 title: The Snug
-on-tap: nope
+on-tap: yup
 sourness: 
 style: Irish Dry Stout
 ---
