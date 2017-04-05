@@ -14,5 +14,5 @@ modal-id: poke
 title: Poke
 on-tap: yup
 sourness: 
-style: Berliner Weiss
+style: Berliner Weisse
 ---
