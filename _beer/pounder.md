@@ -3,7 +3,7 @@ abv: 5.2%
 alt:
 availability: Keg
 bitterness: 
-description: A 5.2% hazy Pale Ale with Citra, Centennial, and a touch of Simcoe hops. Easy drinking and crushable with a nice hop presence.
+description: A hazy Pale Ale with Citra and Centennial hops. Smooth and highly drinkable.
 gravity: 
 hops: 
 ibu: 32
@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: pounder
 title: Pounder
-on-tap: nope
+on-tap: yup	
 sourness: 
 style: Hazy Pale Ale
 ---

@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: poke
 title: Poke
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Berliner Weisse
 ---

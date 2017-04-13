@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: is-it-hoppy
 title: Is It Hoppy?
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Double IPA
 ---
