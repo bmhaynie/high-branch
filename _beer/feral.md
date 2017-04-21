@@ -3,7 +3,7 @@ abv: 6.4%
 alt:
 availability: Keg
 bitterness: 
-description: A barrel fermented Brett beer (Brett is a wild yeast). We dry hopped it with citrusy hops to go with the funkiness of the yeast. At packaging it was almost 4 months old after aging in our puncheon barrel.
+description: A barrel fermented Brett beer (Brett is a wild yeast). We dry hopped it with citrusy hops to go with the funkiness of the yeast.
 gravity: 
 hops: 
 ibu: 22
@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: feral
 title: Feral
-on-tap: nope
+on-tap: yup
 sourness: 
 style: Brett Ale
 ---

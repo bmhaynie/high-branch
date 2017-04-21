@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: imposter
 title: Imposter
-on-tap: nope
+on-tap: yup
 sourness: 
 style: Golden Stout
 ---
