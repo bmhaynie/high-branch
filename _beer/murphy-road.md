@@ -14,5 +14,5 @@ modal-id: murphy-road
 title: Murphy Road
 on-tap: yup
 sourness: 
-style: Milk Stout with Coconut
+style: Milk Stout w/ Coconut
 ---
