@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: pounder-ddh
 title: Pounder (DDH)
-on-tap: nope
+on-tap: yup
 sourness: 
 style: Hazy Pale Ale
 ---

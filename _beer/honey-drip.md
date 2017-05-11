@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: honey-drip
 title: Honey Drip
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Hazy IPA w/ Honey
 ---

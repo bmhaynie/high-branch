@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: ryed-sally-ryed
 title: Rye'd Sally Rye'd
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Rye Saison
 ---
