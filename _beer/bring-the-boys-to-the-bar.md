@@ -3,7 +3,7 @@ abv: 7.0%
 alt:
 availability: Keg
 bitterness: 
-description: Bring the Boys to the Bar is the name of this amazing experimental IPA. It was brewed to mimic a smoothie or milkshake. We added mangoes and lactose sugar to the beer prior to dry hopping with Amarillo hops that add additional citrus flavors.
+description: Mango, lactose, and a touch of vanilla. 7% ABV and super smooth.
 gravity: 
 hops: 
 ibu: 42
@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: bring-the-boys-to-the-bar
 title: Bring the Boys to the Bar
-on-tap: nope
+on-tap: yup
 sourness: 
-style: Hazy IPA
+style: Hazy IPA Aged on Mangoes
 ---
