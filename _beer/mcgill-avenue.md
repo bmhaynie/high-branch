@@ -3,7 +3,7 @@ abv: 7.0%
 alt:
 availability: Keg
 bitterness: 
-description: A hazy "northeast" inspired IPA. Smooth and easy drinking with a distinctive hop flavor and aroma from the heavy dry hopping with Mosaic.
+description: Smooth and easy drinking with a distinctive hop flavor and aroma from the heavy dry hopping with Mosaic and Columbus.
 gravity: 
 hops: 
 ibu: 42
@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: mcgill-avenue
 title: McGill Avenue
-on-tap: nope
+on-tap: yup
 sourness: 
 style: Hazy IPA
 ---
