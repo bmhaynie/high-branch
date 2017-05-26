@@ -7,7 +7,7 @@ description: A Berliner Weiss that is barrel aged for 2 months to create a dry, 
 gravity: 
 hops: 
 ibu: 3
-img: beer.jpg
+img: poke.jpg
 layout: beer
 malt: 
 modal-id: poke
