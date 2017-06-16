@@ -3,7 +3,7 @@ abv: 7.0%
 alt: 
 availability: Keg
 bitterness: 
-description: A hazy IPA coming in at 7% ABV, smooth drinking/crushable. Hopped with El Dorado and Amarillo hops. Citrusy and juicy with very little bitterness.
+description: This hazy IPA is incredibly smooth with a full body. Aroma and flavors of citrus fruit and juice.
 gravity: 
 hops: 
 ibu: 42
@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: unstable
 title: Unstable
-on-tap: nope
+on-tap: yup
 sourness: 
 style: Hazy IPA
 ---
