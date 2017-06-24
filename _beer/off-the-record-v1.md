@@ -7,12 +7,12 @@ description: A rotating IPA in which we test new hops and grain bills. The only 
 gravity: 
 hops: 
 ibu: N/A
-img: off-the-record.jpg
+img: off-the-record-v1.jpg
 layout: beer
 malt: 
-modal-id: off-the-record
-title: Off The Record
-on-tap: yup
+modal-id: off-the-record-v1
+title: Off The Record (v1)
+on-tap: nope
 sourness: 
 style: Hazy IPA
 ---

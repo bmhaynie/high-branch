@@ -7,10 +7,10 @@ description: The second version of our milk stout, this time with Vermont maple 
 gravity: 
 hops: 
 ibu: 34
-img: murphy-road.jpg
+img: murphy-road-maple.jpg
 layout: beer
 malt: 
-modal-id: murphy-road
+modal-id: murphy-road-maple
 title: Murphy Road
 on-tap: yup
 sourness: 
