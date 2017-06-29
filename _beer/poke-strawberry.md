@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: poke-strawberry
 title: Strawberry Poke
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Berliner Weisse
 ---

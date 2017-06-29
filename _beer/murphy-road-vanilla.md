@@ -7,7 +7,7 @@ description: A variant of the second version of our milk stout, this time with V
 gravity: 
 hops: 
 ibu: 34
-img: murphy-road-vanilla.png
+img: beer.jpg
 layout: beer
 malt: 
 modal-id: murphy-road-vanilla
