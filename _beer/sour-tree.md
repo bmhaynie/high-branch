@@ -1,18 +1,18 @@
 ---
-abv: 6.4%
+abv: 6.8%
 alt:
 availability: Keg
 bitterness: 
-description: Durty Bull Brewing Company collaboration. Sour Saison with tamarind added.
+description: Durty Bull collaboration. It is a refreshingly tart Saison with tamarind added.
 gravity: 
 hops: 
 ibu: N/A
-img: beer.jpg
+img: sour-tree.jpg
 layout: beer
 malt: 
 modal-id: sour-tree
 title: Sour Tree
-on-tap: nope
+on-tap: yup
 sourness: 
 style: Tart Saison
 ---

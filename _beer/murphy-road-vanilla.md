@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: murphy-road-vanilla
 title: Murphy Road
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Milk Stout w/ Vanilla & Maple
 ---
