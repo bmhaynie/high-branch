@@ -3,7 +3,7 @@ abv: 8.1%
 alt:
 availability: Keg
 bitterness: 
-description: HB Squared is a double IPA brewed with our pals from Heist. We made the trek down there to make this semi hazy, tropical hop drank.
+description: HB Squared is a double IPA brewed with our pals from Heist Brewery (Charlotte, NC). We made the trek down there to make this semi hazy, tropical hop drank.
 gravity: 
 hops: 
 ibu: N/A
