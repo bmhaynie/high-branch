@@ -14,5 +14,5 @@ modal-id: farmers-fate
 title: Farmer's Fate
 on-tap: yup
 sourness: 
-style: Grisette
+style: Grisette w/ Basil
 ---
