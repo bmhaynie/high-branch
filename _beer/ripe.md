@@ -3,7 +3,7 @@ abv: 5.1%
 alt:
 availability: Keg
 bitterness: 
-description: A Low ABV Saison aged on Raspberries. This is a easy drinking beer that is fairly dry with limited sweetness.
+description: A clean, stainless fermented, saison aged on raspberry. Light and fruity.
 gravity: 
 hops: 
 ibu: 25
@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: ripe
 title: Ripe
-on-tap: nope
+on-tap: yup
 sourness: 
 style: Raspberry Saison
 ---
