@@ -3,10 +3,10 @@ abv: 7.0%
 alt:
 availability: Keg
 bitterness: 
-description: If you like vanilla this one is for you. Boys to the Bar (with Peaches). The fruit is a background note but the hops and the vanilla are center stage.
+description: Hazy IPA with vanilla, lactose sugar, and peaches. The fruit is a background note and the vanilla and hops take the forefront.
 gravity: 
 hops: 
-ibu: 42
+ibu: 35
 img: bring-the-boys-to-the-bar.jpg
 layout: beer
 malt: 
@@ -14,5 +14,5 @@ modal-id: bring-the-boys-to-the-bar
 title: Bring the Boys to the Bar
 on-tap: yup
 sourness: 
-style: Hazy IPA w/ Peaches
+style: Hazy IPA
 ---
