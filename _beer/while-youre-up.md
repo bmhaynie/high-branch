@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: while-youre-up
 title: While You're Up
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Wheat Ale w/ Guava
 ---

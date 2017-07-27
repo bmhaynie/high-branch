@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: farmers-fate
 title: Farmer's Fate
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Grisette w/ Basil
 ---

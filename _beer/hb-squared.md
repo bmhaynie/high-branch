@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: hb-squared
 title: HB Squared
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Double IPA
 ---
