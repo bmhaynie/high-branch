@@ -7,7 +7,7 @@ description: A barrel aged Grisette. A mixed culture, low gravity wheat beer tha
 gravity: 
 hops: 
 ibu: N/A
-img: beer.jpg
+img: assiduous.jpg
 layout: beer
 malt: 
 modal-id: assiduous

@@ -3,7 +3,7 @@ abv: 5.2%
 alt:
 availability: Keg
 bitterness: 
-description: A hazy Pale Ale with Citra, Centennial, and Simcoe hops. Smooth and highly drinkable.
+description: A hazy Pale Ale with Citra, Centennial, and Simcoe hops. Super clean, perfect mouthfeel, and a nice softness.
 gravity: 
 hops: 
 ibu: 32
