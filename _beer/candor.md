@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: candor
 title: Candor
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Peach Sour
 ---
