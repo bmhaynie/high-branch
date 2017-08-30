@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: assiduous
 title: Assiduous
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Grisette
 ---

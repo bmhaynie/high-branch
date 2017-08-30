@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: sour-tree
 title: Sour Tree
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Sour Saison
 ---

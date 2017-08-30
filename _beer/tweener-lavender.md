@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: tweener-lavender
 title: Tweener (w/ Lavender)
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Lavender Saison
 ---
