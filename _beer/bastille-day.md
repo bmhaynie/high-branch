@@ -7,7 +7,7 @@ description: Collaboration with Birdsong Brewing Co. This beer is a summer crush
 gravity: 
 hops: 
 ibu: N/A
-img: beer.jpg
+img: bastille-day.jpg
 layout: beer
 malt: 
 modal-id: bastille-day
