@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: juicy-sis
 title: Juicy Sis
-on-tap: yup
+on-tap: nope
 sourness: 
 style: IPA w/ OJ & Pineapple Juice
 ---
