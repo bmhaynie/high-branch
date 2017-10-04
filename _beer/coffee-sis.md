@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: coffee-sis
 title: Coffee Sis
-on-tap: yup
+on-tap: nope
 sourness: 
 style: IPA w/ Coffee
 ---
