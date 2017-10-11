@@ -7,10 +7,10 @@ description: Poke is our interpretation of a historical Berliner Weisse. We util
 gravity: 
 hops: 
 ibu: N/A
-img: poke-strawberry.png
+img: strawberry-poke.png
 layout: beer
 malt: 
-modal-id: poke-strawberry
+modal-id: strawberry-poke
 title: Strawberry Poke
 on-tap: nope
 sourness: 

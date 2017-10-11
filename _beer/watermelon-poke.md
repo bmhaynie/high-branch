@@ -7,10 +7,10 @@ description: Poke is our interpretation of a historical Berliner Weisse. We util
 gravity: 
 hops: 
 ibu: N/A
-img: poke-watermelon.jpg
+img: watermelon-poke.jpg
 layout: beer
 malt: 
-modal-id: poke-watermelon
+modal-id: watermelon-poke
 title: Watermelon Poke
 on-tap: nope
 sourness: 
