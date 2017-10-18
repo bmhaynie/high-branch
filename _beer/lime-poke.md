@@ -10,9 +10,9 @@ ibu: N/A
 img: poke.jpg
 layout: beer
 malt: 
-modal-id: poke-lime
+modal-id: lime-poke
 title: Lime Poke
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Berliner Weisse
 ---
