@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: unstable
 title: Unstable
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Hazy IPA
 ---
