@@ -7,7 +7,7 @@ description: Version 7 of our rotating hops series. This one is 100% Mosaic dry 
 gravity: 
 hops: 
 ibu: N/A
-img: off-the-record-v5.jpg
+img: off-the-record-v7.jpg
 layout: beer
 malt: 
 modal-id: off-the-record-v7
