@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: off-the-record-v7
 title: Off The Record (v7)
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Hazy IPA
 ---

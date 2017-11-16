@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: bastille-day
 title: Bastille Day
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Tart Saison
 ---
