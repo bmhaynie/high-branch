@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: murphy-road-coffee
 title: Murphy Rd (w/ Coffee)
-on-tap: yup
+on-tap: nope
 sourness: 
 style: Milk Stout
 ---

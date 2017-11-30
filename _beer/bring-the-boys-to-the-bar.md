@@ -3,7 +3,7 @@ abv: 7.0%
 alt:
 availability: Keg
 bitterness: 
-description: Hazy IPA with vanilla, lactose sugar, and peaches. The fruit is a background note and the vanilla and hops take the forefront.
+description: Hazy IPA aged on lactose sugar and mangoes.
 gravity: 
 hops: 
 ibu: 35
@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: bring-the-boys-to-the-bar
 title: Bring the Boys to the Bar
-on-tap: nope
+on-tap: yup
 sourness: 
 style: Hazy IPA
 ---

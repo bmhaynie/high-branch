@@ -3,7 +3,7 @@ abv: 6.2%
 alt:
 availability: Keg
 bitterness: 
-description: Promise Ring is our Hazy IPA with Citra and Azacca hops. We used a large percentage of wheat for a full mouthfeel and the bitterness is restrained. Notes of pineapple and grapefruit.
+description: Notes of stone fruits, citrus, and pineapple. This batch turned out super fruity and insanely crushable.
 gravity: 
 hops: 
 ibu: 55
@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: promise-ring
 title: Promise Ring
-on-tap: nope
+on-tap: yup
 sourness: 
 style: Hazy IPA
 ---
