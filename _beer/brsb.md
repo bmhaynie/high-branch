@@ -12,7 +12,7 @@ layout: beer
 malt: 
 modal-id: brsb
 title: BRSB
-on-tap: nope
+on-tap: yup
 sourness: 
 style: Blonde Ale
 ---
