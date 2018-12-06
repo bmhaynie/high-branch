@@ -103,7 +103,16 @@ p.lead {
     font-size: 21px;
     margin-bottom: 25px;
 }
+section#roots {
+    ul {
+        margin: 0 0 20px 0;
+         li {
+            line-height: 1.75;
+            margin: 0 0 5px 0;
+        }    
+    }
 
+}
 i.fa-long-arrow-right {
     margin-left: 5px;
 }
