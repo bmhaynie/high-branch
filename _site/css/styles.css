@@ -475,12 +475,3 @@ ul.social-buttons {
     margin: 0 0 5px 0; }
     #roots ul li ul {
       margin: 5px 0; }
-
-@media (max-width: 768px) {
-  #roots ul {
-    margin: 0 0 20px 0; }
-    #roots ul li {
-      line-height: 1.75;
-      margin: 0 0 5px 0; }
-      #roots ul li ul {
-        margin: 5px 0; } }
