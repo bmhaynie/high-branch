@@ -53,7 +53,7 @@ permalink: join/
                 </ul>
                 <h5>Boring Stuff</h5>
                 <ul>
-                <li>Membership is valid from January 1, 2019 to December 31, 2019. All member bottles and/or merchandise purchased through the 2019 membership that has not been picked up by February 28, 2020, will become the property of High Branch.</li>
+                <li>Membership is valid from January 1, 2019 to December 31, 2019. All member bottles and/or merchandise purchased through the 2019 membership that has not been picked up by January 1, 2020, will become the property of High Branch.</li>
                 <li>Membership may not be cancelled, transferred, or terminated by members for any reason. High Branch reserves the right to cancel/terminate a membership if we feel something illegal or disingenuous is occurring.</li>
                 </ul>
             </div>
