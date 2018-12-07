@@ -114,7 +114,6 @@ section#roots {
             }
         }    
     }
-
 }
 i.fa-long-arrow-right {
     margin-left: 5px;
@@ -132,6 +131,18 @@ i.fa-long-arrow-left {
     }
     p.lead {
         font-size: 18px;
+    }
+    section#roots {
+        ul {
+            margin: 0 0 20px 0;
+             li {
+                line-height: 1.75;
+                margin: 0 0 5px 0;
+                ul {
+                    margin: 5px 0;
+                }
+            }    
+        }
     }
 }
 

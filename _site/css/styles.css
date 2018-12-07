@@ -136,7 +136,15 @@ i.fa-long-arrow-left {
     font-size: 36px; }
 
   p.lead {
-    font-size: 18px; } }
+    font-size: 18px; }
+
+  section#roots ul {
+    margin: 0 0 20px 0; }
+    section#roots ul li {
+      line-height: 1.75;
+      margin: 0 0 5px 0; }
+      section#roots ul li ul {
+        margin: 5px 0; } }
 .btn:focus,
 .btn:active,
 .btn.active,
@@ -459,3 +467,20 @@ ul.social-buttons {
       #ageModal .modal-dialog .modal-content .btn-xl {
         padding: 10px 20px;
         text-transform: uppercase; }
+
+#roots ul {
+  margin: 0 0 20px 0; }
+  #roots ul li {
+    line-height: 1.75;
+    margin: 0 0 5px 0; }
+    #roots ul li ul {
+      margin: 5px 0; }
+
+@media (max-width: 768px) {
+  #roots ul {
+    margin: 0 0 20px 0; }
+    #roots ul li {
+      line-height: 1.75;
+      margin: 0 0 5px 0; }
+      #roots ul li ul {
+        margin: 5px 0; } }
