@@ -49,8 +49,8 @@ permalink: join/
             </div>
             <div class="col-md-6 col-md-offset-3 text-center">
                 <p class="lead">Thank you for your support. We look forward to you becoming a part of The Roots!</p>
-                <!-- <br>
-                <p><a class="btn-xl" href="https://highbranch.craftcellr.com/" target="_blank">Join Now</a></p> -->
+                <br>
+                <p><a class="btn-xl" href="https://highbranch.craftcellr.com/" target="_blank">Join Now</a></p>
             </div>
         </div>
     </div>
