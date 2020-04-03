@@ -15,8 +15,8 @@ permalink: gift-cards/
                 <p><img src="{{ site.baseurl }}/img/gift-cards.jpg" class="img-thumbnail pull-right" alt="" style="width: 40%; height: auto; margin: 0 0 0 20px;"></p>
                 <h5>How It Works:</h5>
                 <ol>
-                    <li>Click or tap the button below</li>
-                    <li>Enter promo code <strong>HIGHBRANCH20</strong></li>
+                    <li>Click or tap the button below.</li>
+                    <li>Enter promo code <strong>HIGHBRANCH20</strong>.</li>
                     <li>Savings are only applied to the $25 and $50 options (save $5 or $10 depending on the cost).</li>
                     <li>Gift cards will be emailed to help with social distancing.</li>
                     <li>We strongly encourage you to redeem the card in person when the tap room is open again. This is intended to help keep the doors open at High Branch given the current situation and the government mandating that we temporarily shut down the tap room due to COVID-19.</li>
