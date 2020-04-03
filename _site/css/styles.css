@@ -475,3 +475,9 @@ ul.social-buttons {
     margin: 0 0 5px 0; }
     #roots ul li ul {
       margin: 5px 0; }
+
+#gift-cards ol {
+  margin: 0 0 20px 0; }
+  #gift-cards ol li {
+    line-height: 1.75;
+    margin: 0 0 5px 0; }

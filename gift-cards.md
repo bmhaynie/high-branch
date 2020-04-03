@@ -1,0 +1,32 @@
+---
+layout: base
+title: Gift Cards
+permalink: gift-cards/
+---
+
+<section id="gift-cards" class="page bg-light-gray">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-10 col-sm-offset-1 text-center">
+                <h2 class="section-heading">{{ page.title }}</h2>
+            </div>
+            <div class="col-md-6 col-md-offset-3">
+                <p>We're starting a new program for a limited time. We’re offering gift cards at a discounted rate: <strong>$25 gift card for $20</strong> or <strong>$50 gift card for $40</strong>. The catch is you can't use them until we open the tap room again. They are redeemable in person, in the taproom, for anything we sell. You don't even need to live locally to purchase, it's all electronic. Buy for yourself, buy for your family, buy for your significant other for their birthday, it's totally up to you. This offer will be up for a limited time.</p>
+                <p><img src="{{ site.baseurl }}/img/gift-cards.jpg" class="img-thumbnail pull-right" alt="" style="width: 40%; height: auto; margin: 0 0 0 20px;"></p>
+                <h5>How It Works:</h5>
+                <ol>
+                    <li>Click or Tap the button below</li>
+                    <li>Enter promo code <strong>HIGHBRANCH20</strong></li>
+                    <li>Savings are only be applied to the $25 and $50 options (save $5 or $10 depending on the cost)</li>
+                    <li>Gift cards will be emailed to help with social distancing</li>
+                    <li>We can't force you, but encourage you, to redeem the card in person when the tap room is open again. This is intended to help keep the doors open at High Branch given the current situation and the government mandating that we temporarily shut down the tap room due to COVID-19</li>
+                </ol>
+            </div>
+            <div class="col-md-6 col-md-offset-3 text-center">
+                <p class="lead">Thank you all for your consideration and the continued support, together we will all get through this!</p>
+                <br>
+                <p><a class="btn-xl" href="https://squareup.com/gift/Z7BJ2ZZQPT4A7/order" target="_blank">Buy A Gift Card</a></p>
+            </div>
+        </div>
+    </div>
+</section>
