@@ -1,0 +1,1277 @@
+I"«ö<section id="beer" class="page bg-light-gray">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-xs-12">
+                <h2 class="section-heading">Beer Archive</h2>
+            </div>
+        </div>
+        <div class="row">
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/a-branch-in-the-road/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/a-branch-in-the-road.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>A Branch in the Road</h3>
+                        <p class="text-muted">Saison with Fruit</p>
+                        <p><span>4.8%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/assiduous/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/assiduous.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Assiduous</h3>
+                        <p class="text-muted">Grisette</p>
+                        <p><span>4.2%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/autumn-tweener/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/autumn-tweener.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Autumn Tweener</h3>
+                        <p class="text-muted">Honey Saison</p>
+                        <p><span>5.2%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/bastille-day/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/bastille-day.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Bastille Day</h3>
+                        <p class="text-muted">Tart Saison</p>
+                        <p><span>4.8%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/between-the-staves/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/between-the-staves.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Between the Staves</h3>
+                        <p class="text-muted">Raspberry/Blackberry Saison</p>
+                        <p><span>6.2%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/big-sister/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/big-sister.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Big Sister</h3>
+                        <p class="text-muted">Double IPA</p>
+                        <p><span>8.0%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/black-and-blue/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/black-and-blue.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Black and Blue</h3>
+                        <p class="text-muted">Imperial Stout</p>
+                        <p><span>8.2%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/blueberry-poke/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/blueberry-poke.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Blueberry Poke</h3>
+                        <p class="text-muted">Berliner Weisse</p>
+                        <p><span>4.7%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/bring-the-boys-to-the-bar/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/bring-the-boys-to-the-bar.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Bring the Boys to the Bar</h3>
+                        <p class="text-muted">Hazy IPA</p>
+                        <p><span>7.0%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/brsb/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/brsb.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>BRSB</h3>
+                        <p class="text-muted">Blonde Ale</p>
+                        <p><span>5.3%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/cafe-au-porter/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/beer.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Cafe au Porter</h3>
+                        <p class="text-muted">Porter</p>
+                        <p><span>6.5%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/candor/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/norway-hill.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Candor</h3>
+                        <p class="text-muted">Peach Sour</p>
+                        <p><span>6.4%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/caroline/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/caroline.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Caroline</h3>
+                        <p class="text-muted">Tart Saison</p>
+                        <p><span>N/A</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/coffee-sis/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/coffee-sis.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Coffee Sis</h3>
+                        <p class="text-muted">IPA w/ Coffee</p>
+                        <p><span>6.5%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/crazy-lucia/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/beer.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Crazy Lucia</h3>
+                        <p class="text-muted">Belgian Blonde Ale</p>
+                        <p><span>6.1%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/deeneys-day-off/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/deeneys-day-off.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Deeney's Day Off</h3>
+                        <p class="text-muted">Hazy IPA</p>
+                        <p><span>7.0%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/elderberry-poke/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/elderberry-poke.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Elderberry Poke</h3>
+                        <p class="text-muted">Berliner Weisse</p>
+                        <p><span>4.7%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/famous-last-words/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/beer.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Famous Last Words</h3>
+                        <p class="text-muted">Imperial Stout</p>
+                        <p><span>8.5%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/farmers-fate/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/beer.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Farmer's Fate</h3>
+                        <p class="text-muted">Grisette w/ Basil</p>
+                        <p><span>4.7</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/feral/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/feral.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Feral</h3>
+                        <p class="text-muted">Brett Ale</p>
+                        <p><span>6.4%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/grange/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/beer.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Grange</h3>
+                        <p class="text-muted">Saison</p>
+                        <p><span>6.4%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/hail-to-the-brown-ale/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/beer.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Hail to the Brown Ale</h3>
+                        <p class="text-muted">Brown Ale</p>
+                        <p><span>5.6%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/hb-squared/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/hb-squared.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>HB Squared</h3>
+                        <p class="text-muted">Double IPA</p>
+                        <p><span>8.1%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/honey-drip/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/honey-drip.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Honey Drip</h3>
+                        <p class="text-muted">Hazy IPA w/ Honey</p>
+                        <p><span>7.4%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/hoppy-tweener/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/southern-sour-blonde.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Hoppy Tweener</h3>
+                        <p class="text-muted">Saison</p>
+                        <p><span>7.0%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/imposter/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/imposter.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Imposter</h3>
+                        <p class="text-muted">Golden Stout</p>
+                        <p><span>6.0%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/is-it-hoppy/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/is-it-hoppy.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Is It Hoppy?</h3>
+                        <p class="text-muted">Hazy Double IPA</p>
+                        <p><span>8.2%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/juicy-sis/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/juicy-sis.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Juicy Sis</h3>
+                        <p class="text-muted">IPA w/ OJ &amp; Pineapple Juice</p>
+                        <p><span>4.5%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/lake-view/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/beer.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Lake View</h3>
+                        <p class="text-muted">Pale Ale</p>
+                        <p><span>6.0%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/late-addition/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/late-addition.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Late Addition</h3>
+                        <p class="text-muted">Stout</p>
+                        <p><span>6.2%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/lime-poke/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/poke.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Lime Poke</h3>
+                        <p class="text-muted">Berliner Weisse</p>
+                        <p><span>4.7%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/little-man-tate/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/little-man-tate.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Little Man Tate</h3>
+                        <p class="text-muted">Gose</p>
+                        <p><span>5.4%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/little-sis/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/little-sis.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Little Sis</h3>
+                        <p class="text-muted">IPA</p>
+                        <p><span>6.5%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/mcgill-avenue/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/mcgill-avenue.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>McGill Avenue</h3>
+                        <p class="text-muted">Hazy IPA</p>
+                        <p><span>7.0%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/mill-town-brown/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/beer.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Mill Town Brown</h3>
+                        <p class="text-muted">Brown Ale</p>
+                        <p><span>6.5%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/murphy-road-coffee-maple/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/murphy-road-coffee-maple.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Murphy Rd (w/ Coffee &amp; Maple)</h3>
+                        <p class="text-muted">Milk Stout</p>
+                        <p><span>6.2%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/murphy-road-coffee/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/murphy-road.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Murphy Rd (w/ Coffee)</h3>
+                        <p class="text-muted">Milk Stout</p>
+                        <p><span>6.2%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/murphy-road-maple/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/murphy-road-maple.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Murphy Road</h3>
+                        <p class="text-muted">Milk Stout w/ Maple</p>
+                        <p><span>6.2%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/murphy-road-vanilla/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/beer.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Murphy Road</h3>
+                        <p class="text-muted">Milk Stout w/ Vanilla &amp; Maple</p>
+                        <p><span>6.2%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/murphy-road/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/murphy-road.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Murphy Rd</h3>
+                        <p class="text-muted">Milk Stout</p>
+                        <p><span>6.2%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/muscadean/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/muscadean.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Muscadean</h3>
+                        <p class="text-muted">Imperial Red Ale</p>
+                        <p><span>9.0%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/nefarious/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/nefarious.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Nefarious</h3>
+                        <p class="text-muted">Dark Barrel Aged Saison</p>
+                        <p><span>6.5%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/ninja-slippers/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/ninja-slippers.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Ninja Slippers</h3>
+                        <p class="text-muted">Imperial Milk Stout</p>
+                        <p><span>8.0%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/norway-hill/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/norway-hill.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Norway Hill</h3>
+                        <p class="text-muted">Barrel Saison</p>
+                        <p><span>6.4%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/off-the-record-v1/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/off-the-record-v1.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Off The Record (v1)</h3>
+                        <p class="text-muted">Hazy IPA</p>
+                        <p><span>6.0%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/off-the-record-v2/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/off-the-record-v1.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Off The Record (v2)</h3>
+                        <p class="text-muted">Hazy IPA</p>
+                        <p><span>6.0%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/off-the-record-v3/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/off-the-record-v3.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Off The Record (v3)</h3>
+                        <p class="text-muted">Hazy IPA</p>
+                        <p><span>6.0%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/off-the-record-v4/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/off-the-record-v1.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Off The Record (v4)</h3>
+                        <p class="text-muted">Hazy IPA</p>
+                        <p><span>6.0%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/off-the-record-v5/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/off-the-record-v5.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Off The Record (v5)</h3>
+                        <p class="text-muted">Hazy IPA</p>
+                        <p><span>6.0%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/off-the-record-v6/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/off-the-record-v5.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Off The Record (v6)</h3>
+                        <p class="text-muted">Hazy IPA</p>
+                        <p><span>6.0%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/off-the-record-v7/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/off-the-record-v7.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Off The Record (v7)</h3>
+                        <p class="text-muted">Hazy IPA</p>
+                        <p><span>6.0%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/philips-revenge/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/beer.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Philips Revenge</h3>
+                        <p class="text-muted">Smoked Saison</p>
+                        <p><span>7.2%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/poke/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/poke.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Poke</h3>
+                        <p class="text-muted">Berliner Weisse</p>
+                        <p><span>4.7%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/pounder-ddh/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/pounder-ddh.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Pounder (DDH)</h3>
+                        <p class="text-muted">Hazy Pale Ale</p>
+                        <p><span>5.2%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/pounder/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/pounder.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Pounder</h3>
+                        <p class="text-muted">Hazy Pale Ale</p>
+                        <p><span>5.2%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/promise-ring/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/promise-ring.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Promise Ring</h3>
+                        <p class="text-muted">Hazy IPA</p>
+                        <p><span>6.2%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/quick-learner/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/beer.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Quick Learner</h3>
+                        <p class="text-muted">American Session Ale</p>
+                        <p><span>4.5%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/ripe/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/ripe.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Ripe</h3>
+                        <p class="text-muted">Raspberry Saison</p>
+                        <p><span>5.1%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/rusted-door/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/rusted-door.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Rusted Door</h3>
+                        <p class="text-muted">Brett Saison</p>
+                        <p><span>6.2%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/ryed-sally-ryed/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/ryed-sally-ryed.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Rye'd Sally Rye'd</h3>
+                        <p class="text-muted">Rye Saison</p>
+                        <p><span>5.3%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/smooth/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/smooth.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Smooth</h3>
+                        <p class="text-muted">Hazy IPA</p>
+                        <p><span>7.0%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/snug/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/late-addition.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>The Snug</h3>
+                        <p class="text-muted">Irish Dry Stout</p>
+                        <p><span>5.5%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/solstice/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/solstice.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Solstice</h3>
+                        <p class="text-muted">Dark Saison</p>
+                        <p><span>6.0%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/sour-tree/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/sour-tree.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Sour Tree</h3>
+                        <p class="text-muted">Sour Saison</p>
+                        <p><span>6.8%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/southern-sour-blonde/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/southern-sour-blonde.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Southern Sour Blonde</h3>
+                        <p class="text-muted">Sour</p>
+                        <p><span>5.2%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/special-b/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/special-b.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Special B</h3>
+                        <p class="text-muted">Saison</p>
+                        <p><span>6.5%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/standard-issue/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/beer.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Standard Issue</h3>
+                        <p class="text-muted">Stout</p>
+                        <p><span>6.5%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/stateside/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/stateside.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Stateside</h3>
+                        <p class="text-muted">Pale Ale</p>
+                        <p><span>6.3%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/strawberry-poke/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/strawberry-poke.png" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Strawberry Poke</h3>
+                        <p class="text-muted">Berliner Weisse</p>
+                        <p><span>4.7%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/summer-dayz/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/summer-dayz.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Summer Dayz</h3>
+                        <p class="text-muted">Hoppy Wheat</p>
+                        <p><span>5.8%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/tied-on/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/beer.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Tied On</h3>
+                        <p class="text-muted">Belgian Tripel Ale</p>
+                        <p><span>8.9%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/tweener-lavender/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/ryed-sally-ryed.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Tweener (w/ Lavender)</h3>
+                        <p class="text-muted">Lavender Saison</p>
+                        <p><span>5.1%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/tweener/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/tweener.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Tweener</h3>
+                        <p class="text-muted">Saison</p>
+                        <p><span>5.1%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/unstable/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/unstable.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Unstable</h3>
+                        <p class="text-muted">Hazy IPA</p>
+                        <p><span>7.0%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/wakey-wakey/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/wakey-wakey.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Wakey Wakey</h3>
+                        <p class="text-muted">Coffee Saison</p>
+                        <p><span>6.0%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/watermelon-poke/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/watermelon-poke.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Watermelon Poke</h3>
+                        <p class="text-muted">Berliner Weisse</p>
+                        <p><span>4.7%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/while-youre-up/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/while-youre-up.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>While You're Up</h3>
+                        <p class="text-muted">Wheat Ale w/ Guava</p>
+                        <p><span>5.2%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/wrath-of-the-pumpkin/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/wrath-of-the-pumpkin.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Wrath of the Pumpkin</h3>
+                        <p class="text-muted">Imperial Pumpkin Ale</p>
+                        <p><span>8.5%</span></p>
+                    </div>
+                </div>
+            
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 beer-item">
+                    <a href="/beer/yucatan-stout/" class="beer-link">
+                        <div class="beer-hover">
+                            <div class="beer-hover-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="/img/beer/yucatan.jpg" class="img-responsive img-centered" alt="" />
+                    </a>
+                    <div class="beer-caption">
+                        <h3>Yucatan</h3>
+                        <p class="text-muted">Imperial Stout</p>
+                        <p><span>8.5%</span></p>
+                    </div>
+                </div>
+            
+        </div>
+    </div>
+</section>
+:ET
