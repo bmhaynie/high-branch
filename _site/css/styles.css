@@ -162,6 +162,8 @@ header .logo img { height: auto; width: 100%; }
 
 #gallery { padding: 0; }
 
+#gallery img { width: 100%; }
+
 section#contact { background-color: #222222; color: #777; padding: 50px 0; }
 
 section#contact h3 { color: #ffffff; }
@@ -205,5 +207,11 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
 #gift-cards ol { margin: 0 0 20px 0; }
 
 #gift-cards ol li { line-height: 1.75; margin: 0 0 5px 0; }
+
+#private-events h3 { margin-top: 0; }
+
+#private-events i { margin-left: 5px; }
+
+.inquiry-form { background: #ffffff; padding: 3px 20px; }
 
 /*# sourceMappingURL=styles.css.map */
