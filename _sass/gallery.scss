@@ -4,3 +4,12 @@
 		width: 100%;
 	}
 }
+
+.carousel-control {
+	background: none !important;
+	opacity: .5;
+	&:hover, &:focus {
+		background: none !important;
+		opacity: 1;
+	}
+}

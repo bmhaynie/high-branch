@@ -164,6 +164,10 @@ header .logo img { height: auto; width: 100%; }
 
 #gallery img { width: 100%; }
 
+.carousel-control { background: none !important; opacity: .5; }
+
+.carousel-control:hover, .carousel-control:focus { background: none !important; opacity: 1; }
+
 section#contact { background-color: #222222; color: #777; padding: 50px 0; }
 
 section#contact h3 { color: #ffffff; }
