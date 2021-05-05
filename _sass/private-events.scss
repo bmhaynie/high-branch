@@ -10,5 +10,9 @@
 }
 .inquiry-form {
     background: #ffffff;
+    height: 100%;
     padding: 3px 20px;
+    iframe {
+        height: 700px !important;
+    }
 }

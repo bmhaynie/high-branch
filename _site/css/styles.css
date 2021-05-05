@@ -212,6 +212,8 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
 
 #private-events i { margin-left: 5px; }
 
-.inquiry-form { background: #ffffff; padding: 3px 20px; }
+.inquiry-form { background: #ffffff; height: 100%; padding: 3px 20px; }
+
+.inquiry-form iframe { height: 700px !important; }
 
 /*# sourceMappingURL=styles.css.map */
