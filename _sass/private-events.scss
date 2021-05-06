@@ -7,8 +7,28 @@
     i {
         margin-left: 5px;
     }
+    hr {
+    	border-top: 2px solid #dddddd;
+    	margin: 40px 0;
+    	position: relative !important;
+    }
+    a {
+    	font-weight: 700;
+    	text-decoration: underline;
+    }
 }
+
+.carousel-control {
+	background: none !important;
+	opacity: .5;
+	&:hover, &:focus {
+		background: none !important;
+		opacity: 1;
+	}
+}
+
 .inquiry-form {
     background: #ffffff;
     padding: 3px 20px;
 }
+

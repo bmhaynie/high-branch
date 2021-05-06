@@ -164,10 +164,6 @@ header .logo img { height: auto; width: 100%; }
 
 #gallery img { width: 100%; }
 
-.carousel-control { background: none !important; opacity: .5; }
-
-.carousel-control:hover, .carousel-control:focus { background: none !important; opacity: 1; }
-
 section#contact { background-color: #222222; color: #777; padding: 50px 0; }
 
 section#contact h3 { color: #ffffff; }
@@ -215,6 +211,14 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
 #private-events h3 { margin-top: 0; }
 
 #private-events i { margin-left: 5px; }
+
+#private-events hr { border-top: 2px solid #dddddd; margin: 40px 0; position: relative !important; }
+
+#private-events a { font-weight: 700; text-decoration: underline; }
+
+.carousel-control { background: none !important; opacity: .5; }
+
+.carousel-control:hover, .carousel-control:focus { background: none !important; opacity: 1; }
 
 .inquiry-form { background: #ffffff; padding: 3px 20px; }
 
