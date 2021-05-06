@@ -208,6 +208,8 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
 
 #gift-cards ol li { line-height: 1.75; margin: 0 0 5px 0; }
 
+#private-events h2, #private-events h3 { text-align: center; }
+
 #private-events h3 { margin-top: 0; }
 
 #private-events i { margin-left: 5px; }
