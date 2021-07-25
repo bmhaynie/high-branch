@@ -1,7 +1,10 @@
 // Announcement
 
 #announcement {
-	background: #b573dc;
+	background: $brand-danger;
 	color: #ffffff;
-	padding: 65px 15px 15px 15px;
+	padding: 90px 15px 40px 15px;
+	h3 {
+		line-height: 125%;
+	}
 }
