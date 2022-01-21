@@ -1,16 +1,10 @@
----
-layout: base
-title: Private Events
-permalink: private-events/
----
-
-<section id="private-events" class="page bg-light-gray">
+I"<section id="private-events" class="page bg-light-gray">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
-				<h2 class="section-heading">{{ page.title }}</h2>
+				<h2 class="section-heading">Private Events</h2>
 				<p class="lead">Whether you're planning to have a fundraiser, networking event, birthday party, or need a casual or formal meeting space for your friends or corporate party, High Branch offers a unique space equipped with everything you need for a successful and enjoyable event.</p>
-				<hr>
+				<hr />
 			</div>
 			<div class="col-md-8 col-md-offset-2">
 				<h3>Norway Hill Event Space</h3>
@@ -28,19 +22,19 @@ permalink: private-events/
 				<!-- Wrapper for slides -->
 				<div class="carousel-inner" role="listbox">
 					<div class="item active">
-						<img src="{{ site.baseurl }}/img/private-events/the-norway-hill-1.jpg" alt="...">
+						<img src="/img/private-events/the-norway-hill-1.jpg" alt="..." />
 					</div>
 					<div class="item">
-						<img src="{{ site.baseurl }}/img/private-events/the-norway-hill-2.jpg" alt="...">
+						<img src="/img/private-events/the-norway-hill-2.jpg" alt="..." />
 					</div>
 					<div class="item">
-						<img src="{{ site.baseurl }}/img/private-events/the-norway-hill-3.jpg" alt="...">
+						<img src="/img/private-events/the-norway-hill-3.jpg" alt="..." />
 					</div>
 					<div class="item">
-						<img src="{{ site.baseurl }}/img/private-events/the-norway-hill-4.jpg" alt="...">
+						<img src="/img/private-events/the-norway-hill-4.jpg" alt="..." />
 					</div>
 					<div class="item">
-						<img src="{{ site.baseurl }}/img/private-events/the-norway-hill-5.jpg" alt="...">
+						<img src="/img/private-events/the-norway-hill-5.jpg" alt="..." />
 					</div>
 				</div>
 				<!-- Controls -->
@@ -53,16 +47,17 @@ permalink: private-events/
 				<span class="sr-only">Next</span>
 				</a>
 				</div>
-				<hr>
+				<hr />
 				<p id="inquiry-form">High Branch offers packages for full service planning from start to finish with vendor selection, unique table setups and more for a no fuss event for you and your party. We can't wait to have you with us!</p>
 				<p><strong>Fill out the form below for availability, pricing, and a virtual tour of the space.</strong></p>
-				<br>
+				<br />
 				<div class="inquiry-form">
 					<script type="text/javascript" src="//www.pixifi.com/admin/js/consolidated/jquery.iframe.Resizer.min.js"></script>
-					<iframe id="pixifi-contact-form" src="https://highbranchbrewing.pixifi.com/inquiry/" sandbox="allow-same-origin allow-scripts allow-top-navigation allow-forms" scrolling="no" style="width: 100%; border: 0px solid;" ></iframe>
+					<iframe id="pixifi-contact-form" src="https://highbranchbrewing.pixifi.com/inquiry/" sandbox="allow-same-origin allow-scripts allow-top-navigation allow-forms" scrolling="no" style="width: 100%; border: 0px solid;"></iframe>
 					<script>iFrameResize()</script>
 				</div>
 			</div>
 		</div>
 	</div>
 </section>
+:ET
